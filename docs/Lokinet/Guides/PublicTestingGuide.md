@@ -6,18 +6,6 @@ This guide will help you get Lokinet running on your machine, and give you some 
 
 You can run the Loki software on any operating system. The binaries available for Linux (as .deb package), Windows 32 and 64-bit, OSX on [lokinet.org](https://lokinet.org/) website.
 
-### Summary of Lokinet Requirements
-
-This may change depending on new updates, so you should check here regularly, or follow our [telegram](https://t.me/LokiCommunity)/[discord](https://discord.gg/67GXfD6) announcements channel. 
-
-|Spec|Note|
-|---|---|
-|Latest Binary|[lokinet.org](https://lokinet.org/) or [loki github](https://github.com/loki-project/loki-network/releases/latest)|
-|Software| Ubuntu 16.04, Windows 32 and 64-bit, Mac OSX|
-|Storage | 30-50gb|
-|Ram | 2-4 gb|
-
-
 ## Table of Contents
 - [Overview of Lokinet](#Overview)
 - [Getting Help and Reporting Bugs Guidelines](#getting-help-and-reporting-bugs-guidelines)
